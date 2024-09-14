@@ -1,0 +1,11 @@
+@media screen and (max-width: 772px) {
+    /* Adjust divs to 45% of the viewport width */
+    div {
+        width: 45%;
+    }
+
+    /* Adjust images to 30% of the viewport height */
+    img {
+        height: 30vh; /* vh means viewport height */
+    }
+}
